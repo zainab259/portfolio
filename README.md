@@ -1,6 +1,6 @@
 # Zainab Khawar — Portfolio
 
-A responsive, dependency-free portfolio website built with semantic HTML, CSS and vanilla JavaScript.
+A responsive, dependency-free portfolio website built with semantic HTML, CSS and vanilla JavaScript. The shared `palette.css` file defines the violet, ink and white color system across the portfolio, CV and case-study template.
 
 ## Run locally
 
