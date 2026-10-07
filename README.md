@@ -14,7 +14,7 @@ The final-year project has a details disclosure for future screenshots and docum
 
 ## CV
 
-`cv.html` is a downloadable, printable CV assembled from the supplied profile details. Its **Print / Save as PDF** control uses the browser print dialog.
+The navigation and hero **Download CV** buttons download `Zainab_Khawar.pdf`, the supplied CV. `cv.html` remains available as a printable web-format CV; its **Print / Save as PDF** control uses the browser print dialog.
 
 ## Contact form
 
